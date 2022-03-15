@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Zendesk-SP-iOS",
+    name: "ZendeskSP",
     products: [
         .library(
             name: "ChatSDK",
